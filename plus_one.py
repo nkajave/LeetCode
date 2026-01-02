@@ -21,4 +21,9 @@ check directory : pwd
 verifying file existance : ls -l plus_one.py
 run file : python ./plus_one.py
 
+checking git status : git status
+including file to commit : git add plus_one.py
+commiting changes : git commit -m "Plus One"
+push to git : git push
+
 """
