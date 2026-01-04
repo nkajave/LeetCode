@@ -27,6 +27,6 @@ enter numbers
 
 git status
 git add third_max_number.py
-git commit -m "Finding Third Maximum Number in List"
+git commit -m "Finding Third Maximum Number in array"
 
 """
